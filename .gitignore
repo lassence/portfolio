@@ -1,0 +1,30 @@
+# R and Rstudio
+.Rhistory
+.Rapp.history
+.RData
+*-Ex.R
+/*.tar.gz
+/*.Rcheck/
+.Rproj.user/
+*_cache/
+cache/
+*.utf8.md
+*.knit.md
+*_cache/
+/cache/
+
+# Python and Jupyter
+.ipynb_checkpoints/
+__pycache__
+
+# System files
+.DS_Store
+.httr-oauth
+.vscode
+
+# Data files and folders
+/**/exclude/
+/**/extdata/
+/**/*.json
+*.yaml
+

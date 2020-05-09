@@ -1,0 +1,341 @@
+Numero_site_VDP;Nom;Adresse_Postale;Code_postal;Ville;xy
+PARIS_WI-FI_0103;Centre d'Animation Les Halles Le Marais;6 Place Carree;75001;Paris;48.862246, 2.345228
+PARIS_WI-FI_0106;Maison des Associations du 1er;5 bis rue du Louvre;75001;Paris;48.862001, 2.341214
+PARIS_WI-FI_0108;Médiathèque de la Canopée la fontaine;10 passage de la Canopée;75001;Paris;48.86224, 2.346822
+PARIS_WI-FI_0110;Berge de Seine Rive Droite Pont au Change (Sortie Châtelet);Berge de Seine Rive Droite Pont au Change (Sortie Châtelet);75001;Paris;48.8576, 2.346755
+PARIS_WI-FI_0303;Maison des Associations Du 03eme;2 Rue Eugene Spuller;75003;Paris;48.863988, 2.361527
+PARIS_WI-FI_0304;Maison Initiatives Etudiantes;50 Rue Des Tournelles;75003;Paris;48.856214, 2.367392
+PARIS_WI-FI_0307;Square Georges Cain;14 Rue Payenne;75003;Paris;48.85836, 2.362635
+PARIS_WI-FI_0401;Atelier de Restauration Photographique;10 Rue De Fourcy;75004;Paris;48.854912, 2.35929
+PARIS_WI-FI_0402;Bibliothèque Administrative De La Ville De Paris;5 Rue De Lobau;75004;Paris;48.856745, 2.353348
+PARIS_WI-FI_0403;Bibliothèque Forney;1 Rue Du Figuier;75004;Paris;48.853427, 2.359179
+PARIS_WI-FI_0404;Bibliothèque Historique De La Ville De Paris;24 Rue Pavee;75004;Paris;48.857105, 2.361719
+PARIS_WI-FI_0410;Hotel de Ville 3 (2e etage);4 Place De L'Hotel De Ville;75004;Paris;48.85683, 2.351176
+PARIS_WI-FI_0418;Parvis De L'Hotel De Ville (Rivoli);4 Place De L'Hotel De Ville;75004;Paris;48.85683, 2.351176
+PARIS_WI-FI_0420;Square de l'hotel de ville;Passerelle face à la rue Lobau entre la Seine et la voie express Georges Pompidou;75004;Paris;48.856266, 2.35334
+PARIS_WI-FI_0425;Maison des Acteurs du Paris durable;Maison des Acteurs du Paris durable;75007;Paris;48.850333, 2.30671
+PARIS_WI-FI_0513;Square Saint Medard;32 Rue Censier;75005;Paris;48.840394, 2.353601
+PARIS_WI-FI_0514;Square Scipion;8 Rue Scipion;75005;Paris;48.838402, 2.353773
+PARIS_WI-FI_0604;Square Felix Desruelles;168 Bis, Boulevard Saint Germain;75006;Paris;48.853718, 2.334242
+PARIS_WI-FI_0703;Esplanade Des Invalides;1 Rue Paul;75007;Paris;48.8622, 2.311893
+PARIS_WI-FI_0704;Jardin Catherine Laboure;33 Rue De Babylone;75007;Paris;48.851624, 2.319866
+PARIS_WI-FI_0705;Mairie du 7E Arrondissement;116 Rue De Grenelle;75007;Paris;48.856871, 2.320027
+PARIS_WI-FI_0707;Parc Champs De Mars;Avenue Charles Risler;75007;Paris;48.855022, 2.30088
+PARIS_WI-FI_0710;Berges de Seine Rive Gauche – Gros Caillou;Port du Gros Caillou;75007;Paris;48.857107, 2.302746
+PARIS_WI-FI_0711;Berges de Seine Rive Gauche - Port de Solferino;Port de Solferino;75007;Paris;48.862026, 2.322079
+PARIS_WI-FI_0812;Square Louis Xvi;Rue Pasquier;75008;Paris;48.873004, 2.32351
+PARIS_WI-FI_0813;Square Marcel Pagnol;Place Henri Bergson;75008;Paris;48.876171, 2.32059
+PARIS_WI-FI_0901;Annexe Maison des Associations Du 09eme;35 Rue Victor Masse;75009;Paris;48.880941, 2.337009
+PARIS_WI-FI_0907;Square D'Anvers;Place D'Anvers;75009;Paris;48.882213, 2.344754
+PARIS_WI-FI_1011;Square Amadou Hampate Ba;17 Rue Boy Zelenski;75010;Paris;48.877434, 2.368388
+PARIS_WI-FI_1109;Maison des Associations Du 11eme;8 Rue Du General Renault;75011;Paris;48.861264, 2.378496
+PARIS_WI-FI_1117;Square Orillon Jules Vernes;19 Bis, Rue De L'Orillon;75011;Paris;48.869915, 2.375217
+PARIS_WI-FI_1201;Activites artisanales et creation;30 Rue du Faubourg Saint Antoine;75012;Paris;48.852409, 2.371634
+PARIS_WI-FI_1206;Bibliothèque Saint Eloi;23 Rue Du Colonel Rozanoff;75012;Paris;48.845694, 2.38716
+PARIS_WI-FI_1215;Mairie du 12E Arrondissement;130 Avenue Daumesnil;75012;Paris;48.841108, 2.388319
+PARIS_WI-FI_1216;Maison des Associations Du 12eme;181 Avenue Daumesnil;75012;Paris;48.840392, 2.392467
+PARIS_WI-FI_1217;Parc de Bercy (Maison du lac);1 Cour Chamonard;75012;Paris;48.833595, 2.38604
+PARIS_WI-FI_1219;Parc de Bercy (orangerie);1 Cour Chamonard;75012;Paris;48.833595, 2.38604
+PARIS_WI-FI_1220;Parc de Bercy (terrasse Bercy);1 Cour Chamonard;75012;Paris;48.833595, 2.38604
+PARIS_WI-FI_1225;Ecole du Breuil;Route de la ferme / Bois de Vincennes;75012;Paris;48.846478, 2.413301
+PARIS_WI-FI_1302;Bibliothèque Italie;211 Boulevard Vincent Auriol;75013;Paris;48.830852, 2.356962
+PARIS_WI-FI_1309;Jardin Chateau Des Rentiers;Rue Du Chateau Des Rentiers;75013;Paris;48.827542, 2.366668
+PARIS_WI-FI_1313;Jardin James Joyce;Rue Georges Balanchine;75013;Paris;48.836294, 2.373528
+PARIS_WI-FI_1314;Jardin Michelet;237 Rue De Tolbiac;75013;Paris;48.826139, 2.343609
+PARIS_WI-FI_1325;Square Gandon Et Massena;211 Boulevard Massena;75013;Paris;48.82116, 2.36793
+PARIS_WI-FI_1328;Square Heloise Et Abelard;22 Rue Pierre Gourdault;75013;Paris;48.83088, 2.370052
+PARIS_WI-FI_1332;Stade Charlety Salle Charpy + salles reunion R+1;99 Boulevard Kellermann;75013;Paris;48.819214, 2.345541
+PARIS_WI-FI_1401;Bibliothèque Georges Brassens;38 Rue Gassendi;75014;Paris;48.833723, 2.32586
+PARIS_WI-FI_1403;Bibliothèque Vandamme;80 Avenue Du Maine;75014;Paris;48.838572, 2.322042
+PARIS_WI-FI_1407;Jardin Jules Noel;3 Avenue Maurice D'Ocagne;75014;Paris;48.824547, 2.314142
+PARIS_WI-FI_1412;Parc Montsouris 2;2 Rue Gazan;75014;Paris;48.824444, 2.339857
+PARIS_WI-FI_1416;Square Du Chanoine Viollet;72 Rue Du Moulin Vert;75014;Paris;48.830406, 2.322065
+PARIS_WI-FI_1502;Bibliothèque Gutenberg;8 Rue De La Montagne D'Aulas;75015;Paris;48.840209, 2.278682
+PARIS_WI-FI_1508;Centre Sportif Suzanne Lenglen;2 Rue Louis Armand;75015;Paris;48.833082, 2.276543
+PARIS_WI-FI_1518;Parc Andre Citroen;Rue De La Montagne De La Fage;75015;Paris;48.839325, 2.277088
+PARIS_WI-FI_1602;Bibliothèque Trocadero;2 Rue Du Commandant Schloesing;75016;Paris;48.861902, 2.285225
+PARIS_WI-FI_1603;Jardin Du Ranelagh;Chaussee De La Muette;75016;Paris;48.858235, 2.273459
+PARIS_WI-FI_1606;Jardin Porte De Saint Cloud;20 Avenue Ferdinand Buisson;75016;Paris;48.836687, 2.253803
+PARIS_WI-FI_1611;Parc de Passy;Avenue Du President Kennedy;75016;Paris;48.854808, 2.283546
+PARIS_WI-FI_1704;Centre Culturel La Jonquiere;88 Rue La Jonquiere;75017;Paris;48.89475, 2.319068
+PARIS_WI-FI_1705;Jardin De La Promenade Pereire;211 Boulevard Pereire;75017;Paris;48.880925, 2.290249
+PARIS_WI-FI_1712;Square Des Epinettes;Rue Maria Deraismes;75017;Paris;48.894126, 2.327026
+PARIS_WI-FI_1714;Square Ernest Chausson;55 Avenue De Clichy;75017;Paris;48.887446, 2.325384
+PARIS_WI-FI_1804;Bibliothèque Porte Montmartre;30-32 Avenue Porte de Montmartre;75018;Paris;48.900401, 2.335617
+PARIS_WI-FI_1810;Square Henri Huchard;32 Avenue De La Porte De Saint Ouen;75018;Paris;48.899459, 2.330053
+PARIS_WI-FI_1813;Square Sainte-Helene;41 Rue Letort.;75018;Paris;48.895517, 2.343458
+PARIS_WI-FI_1901;Archives de Paris;18 Boulevard Serurier;75019;Paris;48.878037, 2.405807
+PARIS_WI-FI_1908;Centre d'Animation Angele Mercier;133 Boulevard Serurier;75019;Paris;48.884279, 2.394565
+PARIS_WI-FI_1910;Mairie du 19E Arrondissement;5 Place Armand Carrel;75019;Paris;48.882792, 2.381912
+PARIS_WI-FI_1912;Maison Du Developpement Economique Du 19eme;27 Rue Du Maroc;75019;Paris;48.886969, 2.367863
+PARIS_WI-FI_1914;Parc de La Butte Du Chapeau Rouge 1;5 Rue Alphonse Aulard;75019;Paris;48.880639, 2.399757
+PARIS_WI-FI_1922;Square Marcel Mouloudji;2 Rue Pierre Reverdy;75019;Paris;48.885255, 2.376283
+PARIS_WI-FI_2006;Carre Baudoin;121 Rue De Mesnilmontant;75020;Paris;48.870014, 2.394296
+PARIS_WI-FI_2016;MEDIATHEQUE MARGUERITE DURAS;115 RUE DE BAGNOLET;75020;Paris;48.859857, 2.403354
+PARIS_WI-FI_2023;Square Edouard Vaillant;Rue Belgrand;75020;Paris;48.864639, 2.404465
+PARIS_WI-FI_2025;Square Pixerecourt;Rue Pixerecourt;75020;Paris;48.872528, 2.395734
+PARIS_WI-FI_2027;Square Sarah Berhnardt;Rue De Lagny;75020;Paris;48.848954, 2.406047
+PARIS_WI-FI_0108;Ex Jardin des Halles 2;1 rue Pierre-Lescot;75001;Paris;48.861098, 2.34774
+PARIS_WI-FI_0203;Maison des Associations Du 02eme;23 Rue Greneta;75002;Paris;48.86508, 2.350536
+PARIS_WI-FI_0308;Square Leopold Achille;13-13Bis, Rue Payenne;75003;Paris;48.857961, 2.36219
+PARIS_WI-FI_0405;Bibliothèque Isle Saint Louis;21 Rue Saint Louis En L'Isle;75004;Paris;48.851526, 2.357251
+PARIS_WI-FI_0406;Bibliothèque Personnel;17 Boulevard Morland;75004;Paris;48.849988, 2.363268
+PARIS_WI-FI_0407;Espace des Blancs Manteaux;48 Rue Veille Du Temple;75004;Paris;48.858255, 2.358383
+PARIS_WI-FI_0409;Hotel de Ville 2 (1er etage);4 Place De L'Hotel De Ville;75004;Paris;48.85683, 2.351176
+PARIS_WI-FI_0414;Mairie du 4E Arrondissement;2 Place Baudoyer;75004;Paris;48.856164, 2.355667
+PARIS_WI-FI_0415;Maison de Victor Hugo;6 Place Des Vosges;75004;Paris;48.854821, 2.366126
+PARIS_WI-FI_0416;Maison des Associations Du 04eme;38 , Boulevard Henry IV;75004;Paris;48.852169, 2.366369
+PARIS_WI-FI_0421;Square Jean Xxiii (kiosque);Rue Du Cloitre Notre Dame;75004;Paris;48.853193, 2.35065
+PARIS_WI-FI_0423;Square Louis Xiii;30 Place Des Vosges;75004;Paris;48.855328, 2.365576
+PARIS_WI-FI_0424;TOUR ST JACQUES;88 RUE DE RIVOLI;75004;Paris;48.858257, 2.349377
+PARIS_WI-FI_0505;Bibliothèque Port Royal;88 Ter, Boulevard De Port Royal;75005;Paris;48.839312, 2.338798
+PARIS_WI-FI_0506;E.C.A Rive Gauche (Espace commerce Culturel);24 Rue Des Ecoles;75005;Paris;48.848843, 2.348061
+PARIS_WI-FI_0507;Jardin Tino Rossi;8 Quai Saint Bernard;75005;Paris;48.847408, 2.360069
+PARIS_WI-FI_0508;Mairie du 5E Arrondissement;21 Place Du Pantheon;75005;Paris;48.845784, 2.344608
+PARIS_WI-FI_0512;Square Rene Viviani;Rue Lagrange;75005;Paris;48.851323, 2.348213
+PARIS_WI-FI_0603;Maison des Associations Du 06eme;60 Rue Saint Andre Des Arts;75006;Paris;48.853577, 2.339267
+PARIS_WI-FI_0605;Square Ozanam;Boulevard Du Montparnasse;75006;Paris;48.843409, 2.326006
+PARIS_WI-FI_0702;Bibliothèque Saint Simon;116 Rue De Grenelle;75007;Paris;48.856871, 2.320027
+PARIS_WI-FI_0708;Parc Champs De Mars;Avenue Charles Risler;75007;Paris;48.855022, 2.30088
+PARIS_WI-FI_0709;Berges de Seine Rive Gauche - Solferino;Port de Solferino;75007;Paris;48.862026, 2.322079
+PARIS_WI-FI_0802;Bibliothèque Europe;3 Rue De Lisbonne;75008;Paris;48.877801, 2.317354
+PARIS_WI-FI_0805;Mairie du 8E Arrondissement;3 Rue De Lisbonne;75008;Paris;48.877801, 2.317354
+PARIS_WI-FI_0811;Promenade Des Champs Elysees;Avenue Edouard Tuck;75008;Paris;48.865518, 2.317244
+PARIS_WI-FI_0903;Bibliothèque Drouot;11 Rue Drouot;75009;Paris;48.873382, 2.34045
+PARIS_WI-FI_0904;Bibliothèque Valeyre;24 Rue De Rochechouart;75009;Paris;48.877957, 2.344924
+PARIS_WI-FI_0908;Square Montholon;Rue La Fayette;75009;Paris;48.875226, 2.341403
+PARIS_WI-FI_1007;Mairie du 10E Arrondissement;72 Rue Du Faubourg Saint Martin;75010;Paris;48.871777, 2.357378
+PARIS_WI-FI_1103;Bibliothèque Parmentier;20 Avenue Parmentier;75011;Paris;48.860103, 2.379029
+PARIS_WI-FI_1105;Jardin Cite Prost;17 Rue Titon;75011;Paris;48.851762, 2.386403
+PARIS_WI-FI_1108;Mairie du    11E Arrondissement;Place Leon Blum;75011;Paris;48.85813, 2.379865
+PARIS_WI-FI_1110;Promenade Richard Lenoir;67 Boulevard Richard Lenoir;75011;Paris;48.860476, 2.372001
+PARIS_WI-FI_1114;Square Jean Aicard;Avenue Jean Aicard;75011;Paris;48.865582, 2.381004
+PARIS_WI-FI_1203;Bibliothèque Diderot;42 Rue Daumesnil;75012;Paris;48.84612, 2.377684
+PARIS_WI-FI_1221;Promenade Plantee;Allee Vivaldi;75012;Paris;48.841547, 2.391044
+PARIS_WI-FI_1223;Square Charles Peguy;Rue Rottembourg;75012;Paris;48.838309, 2.406262
+PARIS_WI-FI_1305;Centre d'Animation Daviel;24 Rue Daviel;75013;Paris;48.828064, 2.345119
+PARIS_WI-FI_1308;HALLE GEORGES CARPENTIER TENNIS DE TABLE;81 BLD MASSENA;75013;Paris;48.820839, 2.368247
+PARIS_WI-FI_1316;Maison de L'Emploi Du 13eme;126 Avenue D'Italie;75013;Paris;48.823737, 2.357969
+PARIS_WI-FI_1321;Parc Kellermann;3 Rue De La Poterne Des Peupliers;75013;Paris;48.820468, 2.352775
+PARIS_WI-FI_1323;Square De La Raffinerie Say;Boulevard Vincent Auriol;75013;Paris;48.833951, 2.364968
+PARIS_WI-FI_1324;Square Fontaine A Mulard;20 Rue De La Fontaine A Mulard;75013;Paris;48.823039, 2.348765
+PARIS_WI-FI_1330;Square Jean Claude Nicolas Forestier;79 Boulevard Kellermann;75013;Paris;48.819995, 2.347222
+PARIS_WI-FI_1404;Conseil de la Jeunesse;40 Rue Didot;75014;Paris;48.831549, 2.319863
+PARIS_WI-FI_1406;Institut du Judo;21 Avenue de la porte de Chatillon;75014;Paris;48.823297, 2.316577
+PARIS_WI-FI_1408;Jardin Porte De Chatillon;16-26, Rue De Chatillon;75014;Paris;48.827949, 2.32206
+PARIS_WI-FI_1409;Mairie du 14E Arrondissement;2 Place Ferdinand Brunot;75014;Paris;48.832991, 2.326839
+PARIS_WI-FI_1410;Maison des Associations Du 14eme;22 Rue Deparcieux;75014;Paris;48.835555, 2.325808
+PARIS_WI-FI_1411;Parc Montsouris 1;2 Rue Gazan;75014;Paris;48.824444, 2.339857
+PARIS_WI-FI_1415;Square Claude Nicolas Ledoux;2 Place Denfert Rochereau;75014;Paris;48.834055, 2.331118
+PARIS_WI-FI_1418;Square Julia Bartet;Rue Julia Bartet;75014;Paris;48.82577, 2.302525
+PARIS_WI-FI_1505;Bibliothèque Yourcenar 2;41 Rue D Alleray;75015;Paris;48.836775, 2.303669
+PARIS_WI-FI_1507;Centre Sportif Suzanne Lenglen;2 Rue Louis Armand;75015;Paris;48.833082, 2.276543
+PARIS_WI-FI_1509;Centre Sportif Suzanne Lenglen;2 Rue Louis Armand;75015;Paris;48.833082, 2.276543
+PARIS_WI-FI_1511;Jardin Nicole De Hauteclocque;28 Rue Edgar Faure;75015;Paris;48.851916, 2.2954
+PARIS_WI-FI_1516;Musee Memorial Marechal Leclerc;23 Allee De La Deuxieme Division Blindee;75015;Paris;48.840346, 2.319415
+PARIS_WI-FI_1521;Square Alleray Labrouste;92 Rue D'Alleray;75015;Paris;48.836298, 2.308786
+PARIS_WI-FI_1523;Square Clos Feuquieres;Rue Du Clos Feuquieres;75015;Paris;48.836859, 2.291823
+PARIS_WI-FI_1524;Square Saint Lambert 1;1 Rue Theophraste Renaudot;75015;Paris;48.842617, 2.295475
+PARIS_WI-FI_1604;Jardin Du Trocadero 1;1 Place Du Onze Novembre 1918;75016;Paris;48.862923, 2.287896
+PARIS_WI-FI_1710;Square De La Villa Sainte-Croix;32 Rue De La Jonquiere;75017;Paris;48.893597, 2.324309
+PARIS_WI-FI_1801;Bibliothèque Clignancourt;29 Rue Hermel;75018;Paris;48.891616, 2.344508
+PARIS_WI-FI_1811;Square Leon;Passage Leon;75018;Paris;48.884636, 2.334377
+PARIS_WI-FI_1815;Bibliothèque Vaclav Havel;18 ter Rue Pajol;75018;Paris;48.888912, 2.362209
+PARIS_WI-FI_1902;Bibliothèque Benjamin Rabier;141 Avenue De Flandre;75019;Paris;48.892693, 2.379145
+PARIS_WI-FI_1911;Maison des Associations Du 19eme;20 Rue Edouard Pailleron;75019;Paris;48.880402, 2.376535
+PARIS_WI-FI_1916;Parc des Buttes Chaumont (Bolivar);1 Rue Botzaris;75019;Paris;48.876914, 2.381114
+PARIS_WI-FI_1917;Parc des Buttes Chaumont (Carrel);4 Place Armand Carrel;75019;Paris;48.882794, 2.382705
+PARIS_WI-FI_1919;Solarium Edouard Pailleron;39 Rue Edouard Pailleron;75019;Paris;48.880705, 2.377528
+PARIS_WI-FI_2008;Centre Sportif Louis Lumiere;30 Rue Louis Lumiere;75020;Paris;48.859198, 2.411644
+PARIS_WI-FI_2020;PISCINE GEORGES VALLEREY;148 AVENUE GAMBETTA;75020;Paris;48.875389, 2.406186
+PARIS_WI-FI_2024;Square Emmanuelle Fleury;Rue Le Vau;75020;Paris;48.868165, 2.410992
+PARIS_WI-FI_0104;Discothèque des Halles;8 Porte Saint Eustache;75001;Paris;48.863106, 2.345553
+PARIS_WI-FI_0107;Jardin des Halles;rue berger;75001;Paris;48.861424, 2.345829
+PARIS_WI-FI_0201;Bibliothèque Charlote Delbo;2 Passage Des Petits Peres;75002;Paris;48.866508, 2.340428
+PARIS_WI-FI_0202;Mairie du 2E Arrondissement;8 Rue De La Banque;75002;Paris;48.86683, 2.340448
+PARIS_WI-FI_0408;Hotel D Albret;31 Rue Des Francs Bourgeois;75004;Paris;48.857551, 2.360897
+PARIS_WI-FI_0413;Hotel de Ville 1 (sous-sol et rdc);4 Place De L'Hotel De Ville;75004;Paris;48.85683, 2.351176
+PARIS_WI-FI_0419;Parvis De L'Hotel De Ville (Seine);4 Place De L'Hotel De Ville;75004;Paris;48.85683, 2.351176
+PARIS_WI-FI_0422;Square Jean Xxiii (jardinier);Rue Du Cloitre Notre Dame;75004;Paris;48.853193, 2.35065
+PARIS_WI-FI_0502;Bibliothèque Des Litteratures Policier;48 Rue Du Cardinal Lemoine;75005;Paris;48.846524, 2.351314
+PARIS_WI-FI_0510;Square Des Arenes De Lutece;4 Rue Des Arenes;75005;Paris;48.845111, 2.3542
+PARIS_WI-FI_0511;Square Paul Langevin;20 Rue Monge;75005;Paris;48.84807, 2.350447
+PARIS_WI-FI_0601;Bibliothèque Andre Malraux;78 Boulevard Raspail;75006;Paris;48.847971, 2.327696
+PARIS_WI-FI_0606;Maison des Initiatives Etudiantes du 06eme;76 bis Rue de Rennes;75006;Paris;48.850996, 2.330397
+PARIS_WI-FI_0706;Maison des Associations Du 07eme;93 Rue Saint Dominique;75007;Paris;48.859568, 2.307215
+PARIS_WI-FI_0807;Musee Cernuschi;7 Avenue Velasquez;75008;Paris;48.879693, 2.312194
+PARIS_WI-FI_0902;Bibliothèque Chaptal;27 Rue Chaptal;75009;Paris;48.881006, 2.332197
+PARIS_WI-FI_0905;Mairie du 9E Arrondissement;6 Rue Drouot;75009;Paris;48.872594, 2.34044
+PARIS_WI-FI_0910;Centre d'Animation Tour des Dames;14-18 rue de la Tour des Dames;75009;Paris;48.877827, 2.33259
+PARIS_WI-FI_1001;Bibliothèque Chateau D'Eau;72 Rue Du Faubourg Saint Martin;75010;Paris;48.871777, 2.357378
+PARIS_WI-FI_1009;MAISON DES ENTREPRISES ET DE L'EMPLOI DU 10eme;209 rue Lafayette;75010;Paris;48.881198, 2.364069
+PARIS_WI-FI_1013;Place de la république coté Ouest;Place de la République;75010;Paris;48.868384, 2.363126
+PARIS_WI-FI_1106;Jardin Damia;Passage Du Bureau;75011;Paris;48.854061, 2.393983
+PARIS_WI-FI_1107;Jardin Louis Majorelle;24 Rue De La Forge Royale;75011;Paris;48.851334, 2.38046
+PARIS_WI-FI_1111;Square Breguet Sabin;25 Boulevard Richard Lenoir;75011;Paris;48.857089, 2.370476
+PARIS_WI-FI_1112;Square Charonne;159 Rue De Charonne;75011;Paris;48.855577, 2.389557
+PARIS_WI-FI_1115;Square La Petite Roquette;4 Rue Servan;75011;Paris;48.86176, 2.382455
+PARIS_WI-FI_1202;Allee Vivaldi;13 Rue Henard;75012;Paris;48.842008, 2.389419
+PARIS_WI-FI_1205;Bibliothèque Picpus 2;70 Rue De Picpus;75012;Paris;48.842554, 2.397478
+PARIS_WI-FI_1208;Centre d'Animation Reuilly;19 Rue Henard;75012;Paris;48.842448, 2.389644
+PARIS_WI-FI_1210;DSTI;227 Rue de Bercy;75012;Paris;48.846537, 2.369776
+PARIS_WI-FI_1211;Espace Reuilly;21 Rue Henard;75012;Paris;48.842555, 2.389698
+PARIS_WI-FI_1224;Square Saint Eloi;15 Rue Sainte Claire Deville;75012;Paris;48.844048, 2.387242
+PARIS_WI-FI_1301;Bibliothèque Glaciere;132 Rue De La Glaciere;75013;Paris;48.827071, 2.341995
+PARIS_WI-FI_1306;HALLE GEORGES CARPENTIER;81 BLD MASSENA;75013;Paris;48.820839, 2.368247
+PARIS_WI-FI_1307;HALLE GEORGES CARPENTIER ANNEXE HALL;81 BLD MASSENA;75013;Paris;48.820839, 2.368247
+PARIS_WI-FI_1311;Jardin De La Montgolfiere;Rue Du Moulinet;75013;Paris;48.827052, 2.355265
+PARIS_WI-FI_1320;Parc de Choisy 2;160 Avenue De Choisy;75013;Paris;48.825326, 2.360574
+PARIS_WI-FI_1322;Solarium Josephine Baker;Porte De La Gare;75013;Paris;48.820849, 2.3707
+PARIS_WI-FI_1331;Square Rene Legall;43 Rue Corvisart;75013;Paris;48.831977, 2.347592
+PARIS_WI-FI_1413;Parc Montsouris 3;2 Rue Gazan;75014;Paris;48.824444, 2.339857
+PARIS_WI-FI_1419;Square Serment De Koufra;Avenue Ernest Reyer;75014;Paris;48.822531, 2.323714
+PARIS_WI-FI_1512;Mairie du 15E Arrondissement;31 Rue Peclet;75015;Paris;48.841523, 2.299879
+PARIS_WI-FI_1515;Musee Antoine Bourdelle;16 Rue Antoine Bourdelle;75015;Paris;48.843017, 2.31883
+PARIS_WI-FI_1525;Square Saint Lambert 2;1 Rue Theophraste Renaudot;75015;Paris;48.842617, 2.295475
+PARIS_WI-FI_1601;Bibliothèque Musset;20 Rue De Musset;75016;Paris;48.842381, 2.263429
+PARIS_WI-FI_1607;Mairie du 16E Arrondissement;71 Avenue Henri Martin;75016;Paris;48.863942, 2.276599
+PARIS_WI-FI_1608;Maison de Balzac;47 Rue Raynouard;75016;Paris;48.85538, 2.280755
+PARIS_WI-FI_1612;Square Alexandre Et Rene Parodi;Boulevard Thierry De Martel;75016;Paris;
+PARIS_WI-FI_1613;Square Du Tchad;8 Avenue Du Général Sarrail;75016;Paris;48.847251, 2.255114
+PARIS_WI-FI_1614;Stade Coubertin 1 et 2;82 Rue Georges Laffont;75016;Paris;48.835491, 2.255754
+PARIS_WI-FI_1616;Stade Jean BOUIN;20-40 Avenue du Général Sarrail;75016;Paris;48.845037, 2.255682
+PARIS_WI-FI_1702;Bibliothèque Brochant;6 Rue Fourneyron;75017;Paris;48.889741, 2.3197
+PARIS_WI-FI_1703;Bibliothèque Edmond Rostand;11 Rue Nicolas Chuquet;75017;Paris;48.888389, 2.30308
+PARIS_WI-FI_1706;Mairie du 17E Arrondissement;16 Rue Des Batignolles;75017;Paris;48.884225, 2.322182
+PARIS_WI-FI_1708;Parc Clichy Batignolles;Rue Cardinet;75017;Paris;48.885463, 2.310383
+PARIS_WI-FI_1803;Bibliothèque Maurice Genevoix;19 Rue Tristan Tzara;75018;Paris;48.89502, 2.363866
+PARIS_WI-FI_1805;Jardin D Eole 1;1 Rue D Aubervillier;75018;Paris;48.884591, 2.364834
+PARIS_WI-FI_1814;Square Suzanne Buisson;7 Rue Girardon.;75018;Paris;48.887929, 2.337602
+PARIS_WI-FI_1904;Bibliothèque Fessart;6 Rue Fessart;75019;Paris;48.876219, 2.388286
+PARIS_WI-FI_1913;Parc de La Butte Du Chapeau Rouge 2;5 Rue Alphonse Aulard;75019;Paris;48.880639, 2.399757
+PARIS_WI-FI_1915;Parc des Buttes Chaumont (Villette);74 Rue Botzaris;75019;Paris;48.879449, 2.388476
+PARIS_WI-FI_1921;Square De La Marseillaise;1 Bis, Rue De La Marseillaise;75019;Paris;48.888691, 2.398039
+PARIS_WI-FI_2005;Bibliothèque Sorbier;17 Rue Sorbier;75020;Paris;48.866162, 2.392419
+PARIS_WI-FI_2007;Centre d'Animation Louis Lumiere;46 Rue Louis Lumiere;75020;Paris;48.860264, 2.411333
+PARIS_WI-FI_2012;Jardin Hospice Debrousse;148 Rue De Bagnolet;75020;Paris;48.862091, 2.406161
+PARIS_WI-FI_2017;Parc de Belleville 1;45 Rue Des Couronnes;75020;Paris;48.870288, 2.384757
+PARIS_WI-FI_2029;Centre d’Animation  Ken Saro Wiwa;63 rue Buzenval;75020;Paris;48.852844, 2.400777
+PARIS_WI-FI_0102;Bibliothèque Louvre;4 Place Du Louvre;75001;Paris;48.860079, 2.341061
+PARIS_WI-FI_0111;Berge de Seine Rive Droite Pont Neuf (Sortie Tunnel Tuilerie);Berge de Seine Rive Droite Pont Neuf (Sortie Tunnel Tuilerie);75001;Paris;
+PARIS_WI-FI_0301;Bibliothèque Marguerite Audoux;8-12, Rue Portefoin;75003;Paris;48.863817, 2.359701
+PARIS_WI-FI_0302;Mairie du 3E Arrondissement;2 Rue Eugene Spuller;75003;Paris;48.863988, 2.361527
+PARIS_WI-FI_0411;Hotel de Ville 4 (3eme etage);4 Place De L'Hotel De Ville;75004;Paris;48.85683, 2.351176
+PARIS_WI-FI_0417;Parvis De L'Hotel De Ville (9_place);9 Place De L'Hotel De Ville;75004;Paris;48.857187, 2.351116
+PARIS_WI-FI_0426;Berge de Seine Rive Droite Pont d'Arcole (Soli Cycle);Berge de Seine Rive Droite Pont d'Arcole (Soli Cycle);75004;Paris;48.854271, 2.349768
+PARIS_WI-FI_0428;Berge de Seine Rive Droite Pont de Sully (Les Nautes);Berge de Seine Rive Droite Pont de Sully (Les Nautes);75004;Paris;48.850796, 2.363143
+PARIS_WI-FI_0501;Bibliothèque Buffon;15 Bis, Rue Buffon;75005;Paris;48.842548, 2.361878
+PARIS_WI-FI_0503;Bibliothèque Heure Joyeuse;6 Rue Des Pretres Saint Severin;75005;Paris;48.85205, 2.345101
+PARIS_WI-FI_0701;Bibliothèque Amelie;164 Rue De Grenelle;75007;Paris;48.858067, 2.308971
+PARIS_WI-FI_0801;Bibliothèque Courcelles    17 Ter;Avenue Beaucour;75008;Paris;48.877337, 2.302458
+PARIS_WI-FI_0803;Centre d'Animation Espace Beaujon;208 Rue Du Faubourg Saint Honore;75008;Paris;48.875315, 2.304697
+PARIS_WI-FI_0804;Jardin De La Vallee Suisse;Avenue Edouard Tuck;75008;Paris;48.865518, 2.317244
+PARIS_WI-FI_0808;Musee Du Petit Palais;1 Avenue Dutuit;75008;Paris;48.866778, 2.31576
+PARIS_WI-FI_0909;Square Trinite D'Estienne D'Orves;Rue Blanche;75009;Paris;48.880436, 2.331752
+PARIS_WI-FI_1002;Bibliothèque Francois Villon;81 Boulevard De La Villette;75010;Paris;48.877208, 2.370793
+PARIS_WI-FI_1003;Bibliothèque Lancry;11 Rue De Lancry;75010;Paris;48.869318, 2.360277
+PARIS_WI-FI_1005;Centre d'animation espace Jemmapes;116 Quai de Jemmapes;75010;Paris;48.87484, 2.363792
+PARIS_WI-FI_1006;Jardin Villemin;8 Rue Des Recollets;75010;Paris;48.874437, 2.362063
+PARIS_WI-FI_1016;Mediatheque Francoise Sagan 2 sur 2;9 Square Alban Satragne;75010;Paris;48.875546, 2.355223
+PARIS_WI-FI_1104;Jardin Bataclan;102 Boulevard Richard Lenoir;75011;Paris;48.863468, 2.371901
+PARIS_WI-FI_1116;Square Maurice Gardette;Rue Lacharriere;75011;Paris;48.861904, 2.377892
+PARIS_WI-FI_1204;Bibliothèque Picpus 1;70 Rue De Picpus;75012;Paris;48.842554, 2.397478
+PARIS_WI-FI_1212;Jardin Arsenal;20 Boulevard De La Bastille;75012;Paris;48.848361, 2.367977
+PARIS_WI-FI_1213;Jardin De Reuilly;1 Rue Albinoni;75012;Paris;48.842559, 2.388902
+PARIS_WI-FI_1214;Jardin Rue Debergue;34 Rue Du Rendez-Vous;75012;Paris;48.845763, 2.403267
+PARIS_WI-FI_1218;Parc de Bercy (jardinage);1 Cour Chamonard;75012;Paris;48.833595, 2.38604
+PARIS_WI-FI_1303;Bibliothèque Jean Pierre Melville;77 Rue Nationale;75013;Paris;48.827445, 2.366055
+PARIS_WI-FI_1315;Mairie du 13E Arrondissement;1 Place D'Italie;75013;Paris;48.832763, 2.355979
+PARIS_WI-FI_1317;Maison des Associations Du 13eme;13 Rue Caillaux;75013;Paris;48.822585, 2.36113
+PARIS_WI-FI_1319;Parc de Choisy 1;160 Avenue De Choisy;75013;Paris;48.825326, 2.360574
+PARIS_WI-FI_1326;Square Georges Duhamel;Rue Jean Anouilh;75013;Paris;48.831535, 2.378067
+PARIS_WI-FI_1329;Square Henri Cadiou;69 Boulevard Arago;75013;Paris;48.835447, 2.346712
+PARIS_WI-FI_1414;Square Aspirant Dunand;Rue Mouton Duvernet;75014;Paris;48.831757, 2.328437
+PARIS_WI-FI_1417;Square Ferdinand Brunot;Place Ferdinand Brunot;75014;Paris;48.832928, 2.326538
+PARIS_WI-FI_1503;Bibliothèque Vaugirard;154 Rue Lecourbe;75015;Paris;48.841695, 2.299342
+PARIS_WI-FI_1504;Bibliothèque Yourcenar 1;41 Rue D Alleray;75015;Paris;48.836775, 2.303669
+PARIS_WI-FI_1506;Centre Animation Espace Cevennes;9 Rue De La Montagne D'Aulas;75015;Paris;48.840345, 2.278987
+PARIS_WI-FI_1514;Maison des Associations Du 15eme;26 Rue De La Saida;75015;Paris;48.831676, 2.296255
+PARIS_WI-FI_1605;Jardin Du Trocadero 2;1 Place Du Onze Novembre 1918;75016;Paris;48.862923, 2.287896
+PARIS_WI-FI_1615;Jardin d'acclimatation;Bois de Boulogne;75116;Paris;48.868005, 2.287835
+PARIS_WI-FI_1701;Bibliothèque Batignolles;18 Rue Des Batignolles;75017;Paris;48.884452, 2.321898
+PARIS_WI-FI_1707;Maison des Associations Du 17eme;25 Rue Lantiez;75017;Paris;48.895024, 2.323746
+PARIS_WI-FI_1806;Jardin D Eole 2;2 Rue D Aubervillier;75018;Paris;48.892418, 2.368604
+PARIS_WI-FI_1807;Mairie du 18E Arrondissement;1 Place Jules Joffrin;75018;Paris;48.892304, 2.344681
+PARIS_WI-FI_1808;Maison de L'Emploi Du 18eme;164 Rue Ordener;75018;Paris;48.893851, 2.335491
+PARIS_WI-FI_1812;Square Leon Serpollet;25 Rue Des Cloys;75018;Paris;48.892788, 2.339245
+PARIS_WI-FI_1903;Bibliothèque Crimee;42 Rue Petit;75019;Paris;48.884883, 2.382866
+PARIS_WI-FI_1906;Bibliothèque Herge;2 Rue Du Departement;75019;Paris;48.884946, 2.367348
+PARIS_WI-FI_1909;Centre d'Animation Jean Mathis;15 Rue Mathis;75019;Paris;48.890741, 2.37505
+PARIS_WI-FI_1920;Square Claude Bernard;Boulevard Macdonald;75019;Paris;48.898303, 2.381594
+PARIS_WI-FI_2004;Bibliothèque Saint Fargeau;12 Rue Du Telegraphe;75020;Paris;48.871973, 2.399841
+PARIS_WI-FI_2014;Maison des Associations Du 20eme;1 Rue Frederick Lemaitre;75020;Paris;48.873456, 2.390937
+PARIS_WI-FI_2018;Parc de Belleville 2;45 Rue Des Couronnes;75020;Paris;48.870288, 2.384757
+PARIS_WI-FI_2022;Square De La Salamandre;Rue Saint Blaise;75020;Paris;48.858376, 2.406701
+PARIS_WI-FI_0101;Bibliothèque Francois Truffaut;Forum Des Halles;75001;Paris;48.862144, 2.347158
+PARIS_WI-FI_0105;Mairie du 1Er Arrondissement;4 Place Du Louvre;75001;Paris;48.860079, 2.341061
+PARIS_WI-FI_0109;Berge de Seine Rive Droite Pont au Change (Via ferrata);Berge de Seine Rive Droite Pont au Change (Via ferrata);75001;Paris;
+PARIS_WI-FI_0305;Musee Carnavalet;23 Rue De Sevigne;75003;Paris;48.85699, 2.362856
+PARIS_WI-FI_0306;Square Emile Chautemps;Rue Saint Martin;75003;Paris;48.864711, 2.353238
+PARIS_WI-FI_0412;Hotel de Ville 5 (4e etage);4 Place De L'Hotel De Ville;75004;Paris;48.85683, 2.351176
+PARIS_WI-FI_0427;Berge de Seine Rive Droite Pont Notre Dame (Local MdP);Berge de Seine Rive Droite Pont Notre Dame (Local MdP);75004;Paris;
+PARIS_WI-FI_0504;Bibliothèque Mouffetard;74 Rue Mouffetard;75005;Paris;48.842585, 2.349672
+PARIS_WI-FI_0509;Maison des Associations Du 05eme;7 Square Adanson;75005;Paris;48.839482, 2.351813
+PARIS_WI-FI_0602;Mairie du 6E Arrondissement;78 Rue Bonaparte;75006;Paris;48.850731, 2.332635
+PARIS_WI-FI_0806;Maison des Associations Du 08eme;23 Rue Vernet;75008;Paris;48.871917, 2.298106
+PARIS_WI-FI_0809;Parc Monceau;1 Place De La Republique Dominicaine;75008;Paris;48.880417, 2.30904
+PARIS_WI-FI_0810;Parc Monceau;1 Place De La Republique Dominicaine;75008;Paris;48.880417, 2.30904
+PARIS_WI-FI_0906;Maison des Associations Du 09eme;54 Rue Pigalle;75009;Paris;48.880166, 2.334053
+PARIS_WI-FI_1004;Bourse Du Travail;3 Rue Du Chateau D'Eau;75010;Paris;48.869044, 2.362091
+PARIS_WI-FI_1008;Maison des Associations Du 10eme;206 Quai De Valmy;75010;Paris;48.882427, 2.369177
+PARIS_WI-FI_1010;Square Alban Satragne;107 Rue Du Faubourg Saint Denis;75010;Paris;48.875174, 2.355702
+PARIS_WI-FI_1012;Square Juliette Dodu;Angle Rue Juliette Dodu;75010;Paris;48.87531, 2.369156
+PARIS_WI-FI_1014;Place de la république coté Est;Place de la République;75010;Paris;48.868384, 2.363126
+PARIS_WI-FI_1015;Mediatheque Francoise Sagan 1 sur 2;9 Square Alban Satragne;75010;Paris;48.875546, 2.355223
+PARIS_WI-FI_1101;Antenne Jeune Orillon;43 Rue De L'Orillon;75011;Paris;48.870547, 2.377314
+PARIS_WI-FI_1102;Bibliothèque Faidherbe;18 Rue Faidherbe;75011;Paris;48.851602, 2.383955
+PARIS_WI-FI_1113;Square Des Jardiniers;2 Passage Dumas;75011;Paris;48.852444, 2.392062
+PARIS_WI-FI_1207;Centre d'Animation Montgallet;4 Passage Stinville;75012;Paris;48.844236, 2.388362
+PARIS_WI-FI_1209;Centre d'Hebergement Maurice Ravel;6 Avenue Maurice Ravel;75012;Paris;48.841801, 2.411745
+PARIS_WI-FI_1222;Solarium Roger Le Gall;34 Boulevard Carnot;75012;Paris;48.842109, 2.41293
+PARIS_WI-FI_1226;Parc Floral;Route de la Pyramide;75012;Paris;48.829435, 2.451189
+PARIS_WI-FI_1304;Centre d'Accueil Kellermann;17 Boulevard Kellermann;75013;Paris;48.81975, 2.35666
+PARIS_WI-FI_1310;Jardin Cyprian Norwid;36 Rue Du Chevaleret;75013;Paris;48.830535, 2.373573
+PARIS_WI-FI_1312;Jardin Du Moulin De La Pointe;68 Rue Du Moulin De La Pointe;75013;Paris;48.820937, 2.356268
+PARIS_WI-FI_1318;MAISON DES INITIATIVES;3 RUE JEAN ANTOINE DE BAIF;75013;Paris;48.827814, 2.384375
+PARIS_WI-FI_1327;Square Gustave Mesureur;105 Rue Jeanne D'Arc;75013;Paris;48.834056, 2.362637
+PARIS_WI-FI_1333;Stade Charlety R+1 presse et Salon Honneur;99 Boulevard Kellermann;75013;Paris;48.819214, 2.345541
+PARIS_WI-FI_1402;Bibliothèque Plaisance;3 Rue De Ridder;75014;Paris;48.831129, 2.31182
+PARIS_WI-FI_1405;Espace Economie Emploi Du 14eme;13 Rue Remy Dumoncel;75014;Paris;48.829676, 2.332377
+PARIS_WI-FI_1501;Bibliothèque Beaugrenelle;36 Rue Emeriau;75015;Paris;48.850009, 2.286423
+PARIS_WI-FI_1510;Jardin Atlantique;5 Place Des Cinq Martyrs Du Lycée Buffon;75015;Paris;48.838739, 2.31694
+PARIS_WI-FI_1513;Maison Communale du 15 ème;69 Rue Violet;75015;Paris;48.845626, 2.291382
+PARIS_WI-FI_1517;Parc Andre Citroen;5 Rue De La Montagne De La Fage;75015;Paris;48.839325, 2.277088
+PARIS_WI-FI_1519;Parc Georges Brassens (entree);2 Place Jacques Marette;75015;Paris;48.832804, 2.300789
+PARIS_WI-FI_1520;Parc Georges Brassens (rotonde);2 Place Jacques Marette;75015;Paris;48.832804, 2.300789
+PARIS_WI-FI_1522;Square Blomet;43 Rue Blomet;75015;Paris;48.842501, 2.305452
+PARIS_WI-FI_1526;Square Violet;Place Violet;75015;Paris;48.844868, 2.290499
+PARIS_WI-FI_1609;Maison des Associations Du 16eme;16 Avenue Rene Boylesve;75016;Paris;48.856727, 2.283815
+PARIS_WI-FI_1610;Musee D'Art Moderne;11 Avenue Du President Wilson;75016;Paris;48.864833, 2.29738
+PARIS_WI-FI_1617;SQUARE HENRI COLLET;7 RUE JEAN DE LA FONTAINE;75016;Paris;48.852335, 2.275099
+PARIS_WI-FI_1709;Square Andre Ulmann;17 Boulvard De Reims;75017;Paris;48.890168, 2.297995
+PARIS_WI-FI_1711;Square Des Batignolles;Place Charles Fillion;75017;Paris;48.887775, 2.316857
+PARIS_WI-FI_1713;Square Du Cardinal Petit De Julleville;2 Rue Gustave Charpentier;75017;Paris;48.882526, 2.282626
+PARIS_WI-FI_1802;Bibliothèque Goutte D'Or;2 Rue Fleury;75018;Paris;48.884369, 2.354148
+PARIS_WI-FI_1809;Maison des Associations Du 18eme;15 Passage Ramey;75018;Paris;48.889905, 2.347327
+PARIS_WI-FI_1905;Bibliothèque Flandre;35 Rue De Flandre;75019;Paris;48.886215, 2.371088
+PARIS_WI-FI_1907;Bibliothèque Place Des Fetes;18 Rue Janssen;75019;Paris;48.879364, 2.397625
+PARIS_WI-FI_1918;Parc des Buttes Chaumont (Fessard);3 Rue Botzaris;75019;Paris;48.877908, 2.381319
+PARIS_WI-FI_2001;Antenne Jeune Davout;94 Boulevard Davout;75020;Paris;48.856718, 2.410345
+PARIS_WI-FI_2002;Bibliothèque Couronnes;66 Rue Des Couronnes;75020;Paris;48.870224, 2.384959
+PARIS_WI-FI_2003;Bibliothèque Reunion  (Louise Michèle);29-35, Rue Des Haies;75020;Paris;48.853946, 2.402219
+PARIS_WI-FI_2009;Jardin Casque D'Or;20 Rue Des Haies;75020;Paris;48.853946, 2.402219
+PARIS_WI-FI_2010;Jardin Des Amandiers;Rue Des Cendriers;75020;Paris;48.865412, 2.386222
+PARIS_WI-FI_2011;Jardin Gare De Charonne;59 Boulevard Davout;75020;Paris;48.852454, 2.410645
+PARIS_WI-FI_2013;Mairie du 20E Arrondissement;6 Place Gambetta;75020;Paris;48.865092, 2.398997
+PARIS_WI-FI_2015;Maison Du Developpement Economique Du 20eme;31 Rue De Pixerecourt;75020;Paris;48.871943, 2.395759
+PARIS_WI-FI_2019;Parc de Belleville (Maison de Air);27 Rue Piat;75020;Paris;48.871798, 2.385104
+PARIS_WI-FI_2021;Square Antoine Blondin;128 Rue De Bagnolet;75020;Paris;48.860752, 2.404883
+PARIS_WI-FI_2026;Square Samuel Champlain;9 Avenue Gambetta;75020;Paris;48.863517, 2.389568
+PARIS_WI-FI_2028;MEDIATHEQUE MARGUERITE DURAS     N°2;115 RUE DE BAGNOLET;75020;Paris;48.859857, 2.403354
+PARIS_WI-FI_2030;Centre d’Animation  Wangari Maathai;13-15 rue Mouraud;75020;Paris;48.855246, 2.407662
