@@ -1,32 +1,32 @@
 # Portfolio
 
-## Professional projects
+## Workbook: professional projects
 
 Below are some real projects that have been delivered to clients.
 Content has been masked more or less extensively to avoid revealing any sensitive information. 
 Please contact me if you would like more in-depth insights about these projects, or to see additional work.
 
-* [E-shop analysis](work_projects/eshop_analysis/eshop_analysis.ipynb): business KPIs analysis, online behavior insights and customers segmentation for a fashion brand e-commerce website [_Python_]
-* [Search reporting](work_projects/search_reporting): cloud-run reporting solution for matching Search campaigns data (based on Google Ads API) and online transactions, updated daily with precision at the click level [_Python_]
-* [Revenue modelling](work_projects/revenue_modelling/README.md): estimate revenue of online generated Leads, and use as proxy values for Google Ads campaigns, to enable advanced automated bidding strategies [_Python_]
-* [Advanced consumers insights](work_projects/consumers_insights/README.md): package to automatically extract and update consumers insights for an e-retail platform, in order to improve their core product targeting capabilities [_Python_]
+* [E-shop analysis](workbook/eshop_analysis/eshop_analysis.ipynb): business KPIs analysis, online behavior insights and customers segmentation for a fashion brand e-commerce website [_Python_]
+* [Search reporting](workbook/search_reporting): cloud-run reporting solution for matching Search campaigns data (based on Google Ads API) and online transactions, updated daily with precision at the click level [_Python_]
+* [Revenue modelling](workbook/revenue_modelling/README.md): estimate revenue of online generated Leads, and use as proxy values for Google Ads campaigns, to enable advanced automated bidding strategies [_Python_]
+* [Advanced consumers insights](workbook/consumers_insights/README.md): package to automatically extract and update consumers insights for an e-retail platform, in order to improve their core product targeting capabilities [_Python_]
 
-## Personal projects
+## Notebook: personal projects
 
 [Fitcoach](stanford_fitcoach): a R package for our Stanford class project [_R_]
 
 And a selection of analyses and data visualizations that I made for fun and training:
-* [Public Wifi in Paris](personal_projects/wifi_paris/wifi_paris.md): how touristic is the city ? [_R_]
-* [Google location history](personal_projects/location_history/location_history.md): mapping 4 years of my life [_R_]
-* [France kings](personal_projects/france_kings/france_kings.md): how old did they reign ? [_R_]
-* [Aircraft crashes](personal_projects/aircrafts_crashes/aircraft_crashes.md): exploring the main causes since 1908 [_R_]
-* [Google search history](personal_projects/ghistory): statistics and insights about your history [_R_]
-* [French baby names](personal_projects/french_baby_names/french_baby_names.ipynb): trends and evolutions since 1915 [_Python_]
-* [Coursera "Algorithms I"](personal_projects/coursera_algorithms/coursera_algorithms_1.ipynb): coding some classic CS algorithms [_Python_]
+* [Public Wifi in Paris](notebook/wifi_paris/wifi_paris.md): how touristic is the city ? [_R_]
+* [Google location history](notebook/location_history/location_history.md): mapping 4 years of my life [_R_]
+* [France kings](notebook/france_kings/france_kings.md): how old did they reign ? [_R_]
+* [Aircraft crashes](notebook/aircrafts_crashes/aircraft_crashes.md): exploring the main causes since 1908 [_R_]
+* [Google search history](notebook/ghistory): statistics and insights about your history [_R_]
+* [French baby names](notebook/french_baby_names/french_baby_names.ipynb): trends and evolutions since 1915 [_Python_]
+* [Coursera "Algorithms I"](notebook/coursera_algorithms/coursera_algorithms_1.ipynb): coding some classic CS algorithms [_Python_]
 
-## Cookbook
+## Cookbook: bite-size recipes
 
-Bite-size recipes for data, that I find useful.
+Here I share code, notes and small analyses that I find useful when working with data.
 
 ### Python
 
@@ -84,4 +84,3 @@ Bite-size recipes for data, that I find useful.
 * [Change Git commit authors](cookbook/git_change_commit_users.md)
 * [Manage multiple Git accounts](cookbook/git_multiple_config.md)
 * [Squash and reorder commits in Git](cookbook/git_rebase.md)
-
