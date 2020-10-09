@@ -6,10 +6,10 @@ Below are some real projects that have been delivered to clients.
 Content has been masked more or less extensively to avoid revealing any sensitive information. 
 Please contact me if you would like more in-depth insights about these projects, or to see additional work.
 
-* [E-shop analysis](eshop_analysis/eshop_analysis.ipynb): business KPIs analysis, online behavior insights and customers segmentation for a fashion brand e-commerce website [_Python_]
-* [Search reporting](search_reporting): cloud-run reporting solution for matching Search campaigns data (based on Google Ads API) and online transactions, updated daily with precision at the click level [_Python_]
-* [Revenue modelling](revenue_modelling/README.md): estimate revenue of online generated Leads, and use as proxy values for Google Ads campaigns, to enable advanced automated bidding strategies [_Python_]
-* [Advanced consumers insights](consumers_insights/README.md): package to automatically extract and update consumers insights for an e-retail platform, in order to improve their core product targeting capabilities [_Python_]
+* [E-shop analysis](work_projects/eshop_analysis/eshop_analysis.ipynb): business KPIs analysis, online behavior insights and customers segmentation for a fashion brand e-commerce website [_Python_]
+* [Search reporting](work_projects/search_reporting): cloud-run reporting solution for matching Search campaigns data (based on Google Ads API) and online transactions, updated daily with precision at the click level [_Python_]
+* [Revenue modelling](work_projects/revenue_modelling/README.md): estimate revenue of online generated Leads, and use as proxy values for Google Ads campaigns, to enable advanced automated bidding strategies [_Python_]
+* [Advanced consumers insights](work_projects/consumers_insights/README.md): package to automatically extract and update consumers insights for an e-retail platform, in order to improve their core product targeting capabilities [_Python_]
 
 ## Personal projects
 
