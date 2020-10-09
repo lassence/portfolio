@@ -1,6 +1,6 @@
 # Portfolio
 
-## Workbook: professional projects
+## 💼 Workbook: professional projects
 
 Below are some real projects that have been delivered to clients.
 Content has been masked more or less extensively to avoid revealing any sensitive information. 
@@ -11,7 +11,7 @@ Please contact me if you would like more in-depth insights about these projects,
 * [Revenue modelling](workbook/revenue_modelling/README.md): estimate revenue of online generated Leads, and use as proxy values for Google Ads campaigns, to enable advanced automated bidding strategies [_Python_]
 * [Advanced consumers insights](workbook/consumers_insights/README.md): package to automatically extract and update consumers insights for an e-retail platform, in order to improve their core product targeting capabilities [_Python_]
 
-## Notebook: personal projects
+## 📔 Notebook: personal projects
 
 [Fitcoach](stanford_fitcoach): a R package for our Stanford class project [_R_]
 
@@ -24,7 +24,7 @@ And a selection of analyses and data visualizations that I made for fun and trai
 * [French baby names](notebook/french_baby_names/french_baby_names.ipynb): trends and evolutions since 1915 [_Python_]
 * [Coursera "Algorithms I"](notebook/coursera_algorithms/coursera_algorithms_1.ipynb): coding some classic CS algorithms [_Python_]
 
-## Cookbook: bite-size recipes
+## 🍪 Cookbook: bite-size recipes
 
 Here I share code, notes and small analyses that I find useful when working with data.
 
