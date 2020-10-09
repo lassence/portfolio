@@ -50,6 +50,7 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Read multiple CSV files into a DataFrame](cookbook/pandas_multiple_csv_df.md)
 * [Explode string values into multiple rows](cookbook/pandas_explode_rows.ipynb)
 * [More DataFrame rows displayed in Jupyter notebooks](cookbook/pandas_max_display.ipynb)
+* [Use a column value if not NA, or another column](cookbook/pandas_null_else.ipynb)
 
 ### SQL
 
