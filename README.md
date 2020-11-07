@@ -37,6 +37,7 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Lineplots with markers](cookbook/python_seaborn_lineplot_markers.ipynb)
 * [List files in a folder](cookbook/python_files_in_folder.md)
 * [Convert nested field to a dict](cookbook/python_convert_to_dict.ipynb)
+* [Get today or yesterday date](cookbook/python_date_today.ipynb)
 
 ### Pandas
 
