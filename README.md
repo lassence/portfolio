@@ -8,7 +8,7 @@ Please contact me if you would like more in-depth insights about these projects,
 
 * [E-shop analysis](workbook/eshop_analysis/eshop_analysis.ipynb): business KPIs analysis, online behavior insights and customers segmentation for a fashion brand e-commerce website [_Python_]
 * [Search reporting](workbook/search_reporting): cloud-run reporting solution for matching Search campaigns data (based on Google Ads API) and online transactions, updated daily with precision at the click level [_Python_]
-* [Revenue modelling](workbook/revenue_modelling/README.md): estimate revenue of online generated Leads, and use as proxy values for Google Ads campaigns, to enable advanced automated bidding strategies [_Python_]
+* [Revenue modelling](workbook/revenue_modeling/revenue_modeling.ipynb): estimate revenue of online generated Leads, and use as proxy values for Google Ads campaigns, to enable advanced automated bidding strategies [_Python_]
 * [Advanced consumers insights](workbook/consumers_insights/README.md): package to automatically extract and update consumers insights for an e-retail platform, in order to improve their core product targeting capabilities [_Python_]
 
 ## 📔 Notebook: personal projects
