@@ -38,6 +38,7 @@ Here I share code, notes and small analyses that I find useful when working with
 * [List files in a folder](cookbook/python_files_in_folder.md)
 * [Convert nested field to a dict](cookbook/python_convert_to_dict.ipynb)
 * [Get today or yesterday date](cookbook/python_date_today.ipynb)
+* [Read and write to Google Sheets](cookbook/python_google_sheets.ipynb)
 
 ### Pandas
 
