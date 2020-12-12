@@ -1,6 +1,6 @@
 # Join tables in SQL with multiple ON conditions
 
-It is well known that tou can `JOIN` tables on multiple columns with `AND`:
+It is well known that you can `JOIN` tables on multiple columns with `AND`:
 
 ```sql
 SELECT a.id,
