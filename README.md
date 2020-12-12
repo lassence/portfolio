@@ -63,6 +63,7 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Avoid division by zero errors](cookbook/sql_nullif.md)
 * [Count words in PostgreSQL](cookbook/sql_count_words.md)
 * [Time intervals in PostgreSQL](cookbook/postgresql_datediff.md)
+* [Filter with the HAVING clause](cookbook/sql_having.md)
 
 ### Google Cloud Platform
 
