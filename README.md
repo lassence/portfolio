@@ -52,7 +52,7 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Apply computation within groups in a DataFrame](cookbook/pandas_transform.ipynb)
 * [Read multiple CSV files into a DataFrame](cookbook/pandas_multiple_csv_df.md)
 * [Explode string values into multiple rows](cookbook/pandas_explode_rows.ipynb)
-* [More DataFrame rows displayed in Jupyter notebooks](cookbook/pandas_max_display.ipynb)
+* [More DataFrame information displayed in notebooks](cookbook/pandas_max_display.ipynb)
 * [Use a column value if not NA, or another column](cookbook/pandas_null_else.ipynb)
 * [Get differences between two DataFrames](cookbook/pandas_diff_dataframes.ipynb)
 
