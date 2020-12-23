@@ -55,6 +55,7 @@ Here I share code, notes and small analyses that I find useful when working with
 * [More DataFrame information displayed in notebooks](cookbook/pandas_max_display.ipynb)
 * [Use a column value if not NA, or another column](cookbook/pandas_null_else.ipynb)
 * [Get differences between two DataFrames](cookbook/pandas_diff_dataframes.ipynb)
+* [Get top N rows of groups in a DataFrame](cookbook/pandas_top_rows.ipynb)
 
 ### SQL
 
