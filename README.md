@@ -65,6 +65,8 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Count words in PostgreSQL](cookbook/sql_count_words.md)
 * [Time intervals in PostgreSQL](cookbook/postgresql_datediff.md)
 * [Filter with the HAVING clause](cookbook/sql_having.md)
+* [Rank results with the adequate function](cookbook/sql_rank.md)
+
 
 ### Google Cloud Platform
 
