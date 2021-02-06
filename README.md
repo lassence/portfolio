@@ -76,6 +76,7 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Jupyter magic commands for BigQuery](cookbook/gcp_bigquery_magic_commands.ipynb)
 * [Schedule start and stop for a Compute Engine instance](cookbook/gcp_schedule_vm.md)
 * [Copy large distant files to Google Cloud Storage](cookbook/gcp_cloud_storage_from_url.md)
+* [Several ways to schedule BigQuery jobs](cookbook/gcp_bigquery_schedule.md)
 
 ### Google Analytics 360 raw logs analysis
 
