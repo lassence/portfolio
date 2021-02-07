@@ -39,8 +39,8 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Convert nested field to a dict](cookbook/python_convert_to_dict.ipynb)
 * [Get today or yesterday date](cookbook/python_date_today.ipynb)
 * [Read and write to Google Sheets](cookbook/python_google_sheets.ipynb)
-* [ML algorithms with scikit-learn](cookbook/python_scikit_learn.ipynb)
 * [Split data into training and test sets](cookbook/python_split_train_test.ipynb)
+* [ML algorithms with scikit-learn](cookbook/python_scikit_learn.ipynb)
 
 ### Pandas
 
