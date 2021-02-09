@@ -30,14 +30,14 @@ Here I share code, notes and small analyses that I find useful when working with
 
 ### Python
 
-* [Confidence intervals](cookbook/python_confidence_intervals.ipynb)
 * [Format numbers](cookbook/python_format_numbers.ipynb)
 * [Get common elements between lists](cookbook/python_list_intersection.ipynb)
-* [Plot time series with seaborn](cookbook/python_plotting_time_series.ipynb)
-* [Lineplots with markers](cookbook/python_seaborn_lineplot_markers.ipynb)
 * [List files in a folder](cookbook/python_files_in_folder.md)
 * [Convert nested field to a dict](cookbook/python_convert_to_dict.ipynb)
 * [Get today or yesterday date](cookbook/python_date_today.ipynb)
+* [Plot time series with seaborn](cookbook/python_plotting_time_series.ipynb)
+* [Lineplots with markers](cookbook/python_seaborn_lineplot_markers.ipynb)
+* [Confidence intervals](cookbook/python_confidence_intervals.ipynb)
 * [Read and write to Google Sheets](cookbook/python_google_sheets.ipynb)
 * [Split data into training and test sets](cookbook/python_split_train_test.ipynb)
 * [ML algorithms with scikit-learn](cookbook/python_scikit_learn.ipynb)
@@ -58,6 +58,7 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Use a column value if not NA, or another column](cookbook/pandas_null_else.ipynb)
 * [Get differences between two DataFrames](cookbook/pandas_diff_dataframes.ipynb)
 * [Get top N rows of groups in a DataFrame](cookbook/pandas_top_rows.ipynb)
+* [Format dates in bar plots](cookbook/pandas_barplot_dates.ipynb)
 
 ### SQL
 
