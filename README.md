@@ -59,6 +59,7 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Get differences between two DataFrames](cookbook/pandas_diff_dataframes.ipynb)
 * [Get top N rows of groups in a DataFrame](cookbook/pandas_top_rows.ipynb)
 * [Format dates in bar plots](cookbook/pandas_barplot_dates.ipynb)
+* [Back-fill and forward-fill NaN values](cookbook/pandas_bfill_ffill.ipynb)
 
 ### SQL
 
