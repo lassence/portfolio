@@ -23,6 +23,7 @@ And a selection of analyses and data visualizations that I made for fun and trai
 * [Google search history](notebook/ghistory): statistics and insights about your history [_R_]
 * [French baby names](notebook/french_baby_names/french_baby_names.ipynb): trends and evolutions since 1915 [_Python_]
 * [Coursera "Algorithms I"](notebook/coursera_algorithms/coursera_algorithms_1.ipynb): coding some classic CS algorithms [_Python_]
+* [Google Analytics 360 analyses](notebook/ga360_analysis.ipynb): query GA360 raw logs to find audience insights
 
 ## 🍪 Cookbook: bite-size recipes
 
@@ -72,7 +73,6 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Filter with the HAVING clause](cookbook/sql_having.md)
 * [Rank results with the adequate function](cookbook/sql_rank.md)
 
-
 ### Google Cloud Platform
 
 * [Introduction to Google AI Notebooks](cookbook/gcp_ai_notebooks.md)
@@ -82,13 +82,7 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Schedule start and stop for a Compute Engine instance](cookbook/gcp_schedule_vm.md)
 * [Copy large distant files to Google Cloud Storage](cookbook/gcp_cloud_storage_from_url.md)
 * [Several ways to schedule BigQuery jobs](cookbook/gcp_bigquery_schedule.md)
-
-### Google Analytics 360 raw logs analysis
-
-* [Connect to BigQuery API](cookbook/ga360_connect_bigquery.ipynb)
-* [Audience metrics](cookbook/ga360_audience.ipynb)
-* [Acquisition paths](cookbook/ga360_acquisition_paths.ipynb)
-* [On-site behaviour](cookbook/ga360_onsite.ipynb)
+* [Query Google Analytics 360 raw logs](cookbook/ga360_connect_bigquery.ipynb)
 
 ### Other topics
 
