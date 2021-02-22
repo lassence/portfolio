@@ -51,6 +51,7 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Flatten nested JSON files](cookbook/pandas_flatten_json.ipynb)
 * [Pivot DataFrames with non-numeric values](cookbook/pandas_pivot.ipynb)
 * [Rename columns with method chaining](cookbook/pandas_rename_columns.ipynb)
+* [Flatten multi-index columns](cookbook/pandas_flatten_multiindex.ipynb)
 * [Calculate moving averages and rolling windows](cookbook/pandas_rolling_windows.ipynb)
 * [Select DataFrame rows with NA values in any column](cookbook/pandas_select_null.ipynb)
 * [Apply computation within groups in a DataFrame](cookbook/pandas_transform.ipynb)
