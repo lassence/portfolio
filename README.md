@@ -23,7 +23,8 @@ And a selection of analyses and data visualizations that I made for fun and trai
 * [Google search history](notebook/ghistory): statistics and insights about your history [_R_]
 * [French baby names](notebook/french_baby_names/french_baby_names.ipynb): trends and evolutions since 1915 [_Python_]
 * [Coursera "Algorithms I"](notebook/coursera_algorithms/coursera_algorithms_1.ipynb): coding some classic CS algorithms [_Python_]
-* [Google Analytics 360 analyses](notebook/ga360_analysis.ipynb): query GA360 raw logs to find audience insights
+* [Google Analytics 360 analyses](notebook/ga360_analysis.ipynb): query GA360 raw logs to find audience insights [_Python_]
+* [Time series prediction](notebook/time_series_prediction.ipynb): comparison of ML models to predict daily temperatures [_Python_]
 
 ## 🍪 Cookbook: bite-size recipes
 
