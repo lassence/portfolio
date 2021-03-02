@@ -39,6 +39,7 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Get today or yesterday date](cookbook/python_date_today.ipynb)
 * [Plot time series with seaborn](cookbook/python_plotting_time_series.ipynb)
 * [Lineplots with markers](cookbook/python_seaborn_lineplot_markers.ipynb)
+* [Categorical distribution plots](cookbook/python_seaborn_categorical_plots.ipynb)
 * [Confidence intervals](cookbook/python_confidence_intervals.ipynb)
 * [Read and write to Google Sheets](cookbook/python_google_sheets.ipynb)
 * [Handle infinity values](cookbook/python_infinity.ipynb)
