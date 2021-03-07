@@ -8,15 +8,13 @@ To avoid this error and return a default value, use `NULLIF`.
 
 ```sql
 WITH d AS (
-  SELECT
-    12 AS nom,
-    0 AS denom
+   SELECT 12 AS nom,
+          0 AS denom
 )
 
 -- Avoid "Division by Zero" error
-SELECT
-  nom/NULLIF(denom, O) AS ratio
-FROM d
+SELECT nom/NULLIF(denom, O) AS ratio
+  FROM d
 
 -- Result
 -- null

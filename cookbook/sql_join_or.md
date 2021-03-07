@@ -33,4 +33,4 @@ SELECT a.id,
         AND LOWER(a.last_name) = LOWER(b.last_name))
 ```
 
-In this case, the join would be made in priority on `id`, then on `first_name ` and `last_name` as "fallback" option in case no match is found for IDs, but first and last names match.
+In this case, the join would be made in priority on `id`, then on `first_name` and `last_name` as "fallback" option in case no match is found for IDs, but first and last names match.
