@@ -1,4 +1,4 @@
-# [GCP] Cloud-based JupyterLab with Google Cloud AI Notebooks
+# Cloud-based JupyterLab with Google Cloud AI Notebooks
 
 Since 2019, I have been extensively using Google cloud-based JupyterLab instances, **AI Platform Notebooks**. While there are other solutions to host Jupyter notebooks on GCP, like installing Jupyter on a Compute Engine instance or [Colab](https://colab.research.google.com), I find AI Platform Notebooks very convenient. They are simple to create, powerful and reliable.
 

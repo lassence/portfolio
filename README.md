@@ -84,6 +84,7 @@ Here I share code, notes and small analyses that I find useful when working with
 ### Google Cloud Platform
 
 * [Introduction to Google AI Notebooks](cookbook/gcp_ai_notebooks.md)
+* [GCP Notebooks with custom disk size](cookbook/gcp_ai_notebooks_custom_disk.md)
 * [Authenticate to Google API on a cloud-based notebook](cookbook/gcp_remote_auth.ipynb)
 * [Authenticate to BigQuery in a Jupyter notebook](cookbook/gcp_bigquery_authenticate.ipynb)
 * [Jupyter magic commands for BigQuery](cookbook/gcp_bigquery_magic_commands.ipynb)
