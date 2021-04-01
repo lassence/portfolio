@@ -1,5 +1,9 @@
 # Schedule start and stop for a Google Compute Engine instance
 
+**March 2021 update:** you can now easily schedule VM instances start and/or stop with the **Instances Schedule** feature (see [documentation](https://cloud.google.com/compute/docs/instances/schedule-instance-start-stop)).
+
+***
+
 Cronjobs are a simple and reliable way to periodically execute scripts on a virtual machine. However, to avoid having your virtual instance running all the time - and being charged for it - we can configure Google Cloud to start the GCE instance a few minute before the cronjob are executed, and to power it off afterwards.
 
 We will use the following architecture:
