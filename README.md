@@ -71,7 +71,7 @@ Here I share code, notes and small analyses that I find useful when working with
 
 ### SQL
 
-* [Import tables from foreign database with PostgreSQL](cookbook/sql_foreign_data_wrapper.md)
+* [Import foreign PostgreSQL database](cookbook/sql_foreign_data_wrapper.md)
 * [Join with OR condition](cookbook/sql_join_or.md)
 * [Avoid division by zero errors](cookbook/sql_nullif.md)
 * [Count words in PostgreSQL](cookbook/sql_count_words.md)
@@ -105,8 +105,8 @@ Here I share code, notes and small analyses that I find useful when working with
 
 ## 💻 My current tech stack for data science
 
-- Hardware: **Macbook Pro 13"** 2017 edition, with Intel i5, 16GB RAM and 256GB HDD – and a pair of Airpods
-- IDE: **Visual Studio Code** with as few extensions as possible (*Python*, *Markdown All in One* and *Rainbow CSV*)
+- Hardware: **Macbook Pro 13"** with Intel i5, 16GB RAM and 256GB HDD – and a pair of Airpods
+- IDE: **Visual Studio Code** with as few extensions as possible (includes *Markdown All in One*, *Rainbow CSV* and *SQLTools*)
 - Python package manager: **Miniconda**, with the essential libraries (*pandas* is obviously #1, and usual suspects include *seaborn*, *NumPy*, *SQLAlchemy* and Google Cloud libraries)
 - Notebooks: **Jupyterlab** on local machine, but also increasingly on Google Cloud-hosted notebooks
 - Database: **BigQuery** is my preferred analytical data warehouse, for its fast performance whatever the dataset size, and for interactive queries debugging
