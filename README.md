@@ -69,6 +69,7 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Options for DataFrames info](cookbook/pandas_df_info.ipynb)
 * [Going up a tree](cookbook/pandas_tree.ipynb)
 * [Cross-join DataFrames](cookbook/pandas_crossjoin.ipynb)
+* [Tips for counting values](cookbook/pandas_value_counts.ipynb)
 
 ### SQL
 
