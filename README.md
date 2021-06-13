@@ -105,3 +105,4 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Change Git commit authors](cookbook/git_change_commit_users.md)
 * [Manage multiple Git accounts](cookbook/git_multiple_config.md)
 * [Squash and reorder commits in Git](cookbook/git_rebase.md)
+* [Use hash functions for group assignment](cookbook/hash_functions.ipynb)
