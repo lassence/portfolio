@@ -78,6 +78,7 @@ Here I share code, notes and small analyses that I find useful when working with
 * [Avoid division by zero errors](cookbook/sql_nullif.md)
 * [Count words in PostgreSQL](cookbook/sql_count_words.md)
 * [Time intervals in PostgreSQL](cookbook/postgresql_datediff.md)
+* [Convert Epoch to datetime in Redshift](cookbook/sql_redshift_timestamp.md)
 * [Using CASE in PostgreSQL](cookbook/sql_case.md)
 * [Filter with the HAVING clause](cookbook/sql_having.md)
 * [Rank results with the adequate function](cookbook/sql_rank.md)
