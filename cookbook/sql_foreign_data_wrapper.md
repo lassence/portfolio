@@ -2,7 +2,6 @@
 
 PostgreSQL provides a useful feature called Foreign Data Wrapper, that can be used to access data stored on external PostgreSQL servers. On Postgres 9.3+, an extension named `postgres_fdw` enables this feature (see [documentation](https://www.postgresql.org/docs/current/postgres-fdw.html)). 
 
-
 ## Install extension
 
 ```sql

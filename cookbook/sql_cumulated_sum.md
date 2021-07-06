@@ -1,0 +1,293 @@
+# Cumulated sum in SQL
+
+To compute the cumulated sum (running total) in SQL, use `SUM(metric) OVER (ORDER BY dimension)`.  
+You can also get the running total *partitioned by a group*, with `PARTITION BY`, as described below:
+
+```python
+%%bigquery
+# Get Google Analytics sample data for July 2017
+WITH sub1 AS (
+      SELECT PARSE_DATE("%Y%m%d", date) AS day,
+             EXTRACT(WEEK FROM PARSE_DATE("%Y%m%d", date)) AS week,
+             SUM(totals.visits) AS sessions
+        FROM `bigquery-public-data.google_analytics_sample.ga_sessions_201707*` 
+    GROUP BY 1,2
+)
+
+  SELECT day,
+         sessions,
+         # Cumulated sum of daily sessions
+         SUM(sessions) OVER (ORDER BY day) AS sessions_cumtd,
+         week,
+         # Cumulated sum of sessions, partitioned by week
+         SUM(sessions) OVER (PARTITION BY week ORDER BY day) AS sessions_cumtd_week
+    FROM sub1
+ORDER BY day
+```
+
+<div>
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>day</th>
+      <th>sessions</th>
+      <th>sessions_cumtd</th>
+      <th>week</th>
+      <th>sessions_cumtd_week</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>2017-07-01</td>
+      <td>2048</td>
+      <td>2048</td>
+      <td>26</td>
+      <td>2048</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>2017-07-02</td>
+      <td>1895</td>
+      <td>3943</td>
+      <td>27</td>
+      <td>1895</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>2017-07-03</td>
+      <td>2046</td>
+      <td>5989</td>
+      <td>27</td>
+      <td>3941</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>2017-07-04</td>
+      <td>1938</td>
+      <td>7927</td>
+      <td>27</td>
+      <td>5879</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>2017-07-05</td>
+      <td>2885</td>
+      <td>10812</td>
+      <td>27</td>
+      <td>8764</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>2017-07-06</td>
+      <td>2658</td>
+      <td>13470</td>
+      <td>27</td>
+      <td>11422</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>2017-07-07</td>
+      <td>2450</td>
+      <td>15920</td>
+      <td>27</td>
+      <td>13872</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>2017-07-08</td>
+      <td>1859</td>
+      <td>17779</td>
+      <td>27</td>
+      <td>15731</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>2017-07-09</td>
+      <td>1921</td>
+      <td>19700</td>
+      <td>28</td>
+      <td>1921</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>2017-07-10</td>
+      <td>2769</td>
+      <td>22469</td>
+      <td>28</td>
+      <td>4690</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>2017-07-11</td>
+      <td>2635</td>
+      <td>25104</td>
+      <td>28</td>
+      <td>7325</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>2017-07-12</td>
+      <td>2554</td>
+      <td>27658</td>
+      <td>28</td>
+      <td>9879</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>2017-07-13</td>
+      <td>2741</td>
+      <td>30399</td>
+      <td>28</td>
+      <td>12620</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>2017-07-14</td>
+      <td>2382</td>
+      <td>32781</td>
+      <td>28</td>
+      <td>15002</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>2017-07-15</td>
+      <td>1721</td>
+      <td>34502</td>
+      <td>28</td>
+      <td>16723</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>2017-07-16</td>
+      <td>1766</td>
+      <td>36268</td>
+      <td>29</td>
+      <td>1766</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>2017-07-17</td>
+      <td>2671</td>
+      <td>38939</td>
+      <td>29</td>
+      <td>4437</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>2017-07-18</td>
+      <td>2804</td>
+      <td>41743</td>
+      <td>29</td>
+      <td>7241</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>2017-07-19</td>
+      <td>2514</td>
+      <td>44257</td>
+      <td>29</td>
+      <td>9755</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>2017-07-20</td>
+      <td>2668</td>
+      <td>46925</td>
+      <td>29</td>
+      <td>12423</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>2017-07-21</td>
+      <td>2427</td>
+      <td>49352</td>
+      <td>29</td>
+      <td>14850</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>2017-07-22</td>
+      <td>1724</td>
+      <td>51076</td>
+      <td>29</td>
+      <td>16574</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>2017-07-23</td>
+      <td>1966</td>
+      <td>53042</td>
+      <td>30</td>
+      <td>1966</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>2017-07-24</td>
+      <td>2436</td>
+      <td>55478</td>
+      <td>30</td>
+      <td>4402</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>2017-07-25</td>
+      <td>2631</td>
+      <td>58109</td>
+      <td>30</td>
+      <td>7033</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>2017-07-26</td>
+      <td>2725</td>
+      <td>60834</td>
+      <td>30</td>
+      <td>9758</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>2017-07-27</td>
+      <td>2529</td>
+      <td>63363</td>
+      <td>30</td>
+      <td>12287</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>2017-07-28</td>
+      <td>2433</td>
+      <td>65796</td>
+      <td>30</td>
+      <td>14720</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>2017-07-29</td>
+      <td>1597</td>
+      <td>67393</td>
+      <td>30</td>
+      <td>16317</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>2017-07-30</td>
+      <td>1799</td>
+      <td>69192</td>
+      <td>31</td>
+      <td>1799</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>2017-07-31</td>
+      <td>2620</td>
+      <td>71812</td>
+      <td>31</td>
+      <td>4419</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+

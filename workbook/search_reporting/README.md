@@ -58,7 +58,6 @@ for more info on scheduling cron tasks.
 
 3. Verify that the cronjob has been saved with: `crontab -l`
 
-
 ## Schedule GCE start and shutdown
 
 To avoid having a GCE instance running all the time - and being charged for it - 
